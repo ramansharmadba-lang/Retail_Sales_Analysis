@@ -12,5 +12,5 @@ UK Retail ke sales data ka Exploratory Data Analysis (EDA) karke business insigh
 - Q4 Me Sales Peak Pe Hai
 
 ### Dataset
-- `retail_sales_data.csv` - Raw data (2009-2010)
+- `retail_sales_data.csv` - Raw data (2023-2024)
 - `Retail_Sales_Analysis.ipynb` - Full EDA Notebook with Visualizations
